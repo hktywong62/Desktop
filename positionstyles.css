@@ -35,7 +35,7 @@ gap: 20px;
   /* This is the parent of the activity 2 boxes. */
   width: 15%;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 50px);
   gap: 0;
 }
 
